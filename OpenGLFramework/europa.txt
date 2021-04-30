@@ -1,0 +1,20 @@
+# This is an example planet grammar for an Earth-like planet
+# It has the same dimensions and properties, but with procedurally generated terrain
+
+# Polar radius (in km)
+R 1560
+# Mass (in kg)
+M 4.780e22
+# Sidereal day (in hours)
+D 84.98
+# Smoothness factor of planet surface (0->1, 0 is a sphere)
+S 0.01
+# Average sea-level temperature (C)
+T -171
+# Water level (% of planet covered, 0 for planet without water)
+W 1.0
+# General planet coloring. options are:
+# 	terrestrial : green and sandy
+# 	     random : a fun new color
+# 	      color : specify a color (follow with 3 RGB values)
+C color 255 255 255
