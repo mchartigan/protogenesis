@@ -6,5 +6,5 @@ This is a Visual Studio project, made in Visual Studio 2019. To compile and run,
 Follow the templates available and browse `protogenesis.pdf` to get an understanding of how to write a grammer.
 
 ## Example
-!(Earth-like planet)[earth.gif]
+![Earth-like planet](./earth.gif)
 
